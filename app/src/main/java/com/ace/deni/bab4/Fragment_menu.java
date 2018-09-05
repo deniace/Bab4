@@ -16,6 +16,7 @@ public class Fragment_menu extends Fragment {
 
     public Fragment_menu() {
         // Required empty public constructor
+        // coba lagi git cuy 
     }
 
 
